@@ -8,6 +8,6 @@ type CartState = {
     itemInCartAmount: number;
 }
 
-class AddToCart extends React.Component<CartProps, CartState> {
-
+export const AddToCart = (itemInCartAmount: CartProps) => () {
+    <div></div>;
 }
