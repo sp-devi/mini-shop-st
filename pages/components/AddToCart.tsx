@@ -8,6 +8,6 @@ type CartState = {
     itemInCartAmount: number;
 }
 
-export const AddToCart = (itemInCartAmount: CartProps) => () {
+export const AddToCart = (itemInCartAmount: CartProps) => {
     <div></div>;
 }
