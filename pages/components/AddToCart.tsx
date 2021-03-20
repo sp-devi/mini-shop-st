@@ -9,5 +9,8 @@ type CartState = {
 }
 
 export const AddToCart = (itemInCartAmount: CartProps) => {
-    <div></div>;
+    return(
+        <div>
+        </div>
+    )
 }
